@@ -16,7 +16,8 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+### Obs: Para um resultado mais efetivo, é necessario usar como navegador o Internet Explorer.
+Em outras palabras usar o Windows 7.
 ### Resutados
 
-
-![image](https://github.com/eddygordonn/cibersecurity-desafio-phishing/assets/28636829/62340b4a-98d2-4d33-ac8b-f53223aebf7c)
+![image](https://github.com/eddygordonn/cibersecurity-desafio-phishing/assets/28636829/246d3e5c-8c4b-4e4a-b9a7-bddefa367b5e)
